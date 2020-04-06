@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: indianred
+}
+#canva{
+    margin:20px 20px;
+    text-align: center;
+}
+#canv{
+    background-color: brown;
+}
